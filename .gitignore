@@ -1,0 +1,7 @@
+# Ignora fisierul de configurare cu date secrete
+config.json
+
+# Ignora folderul sau fisierele de capturi de ecran
+screenshots/
+*.png
+*.jpg
